@@ -1,0 +1,3 @@
+com\finance\withdrawalprocess\controllers\WithdrawalControllerTest.class
+com\finance\withdrawalprocess\ApplicationTests.class
+com\finance\withdrawalprocess\services\WithdrawalServiceImplTest.class

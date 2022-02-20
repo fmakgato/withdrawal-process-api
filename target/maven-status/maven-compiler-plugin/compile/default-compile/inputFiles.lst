@@ -1,0 +1,17 @@
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\enums\WithdrawalStatus.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\mappers\mapperImpl\WithdrawalMapperImpl.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\services\impl\WithdrawalServiceImpl.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\repository\InvestorRepository.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\mappers\WithdrawalMapper.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\configurations\SqlDataPopulationConfig.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\services\WithdrawalService.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\controllers\WithdrawalController.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\enums\ProductType.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\Application.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\entity\Withdrawal.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\repository\ProductRepository.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\entity\Investor.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\models\ProcessRequest.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\repository\WithdrawalRepository.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\configurations\SwaggerConfig.java
+C:\Users\france2\Downloads\TEST\withdrawal-process\src\main\java\com\finance\withdrawalprocess\entity\Product.java
